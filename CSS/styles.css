@@ -1,0 +1,16 @@
+body{
+	width: 600px;
+	margin: auto;
+	--text-align: center;
+}
+
+section{
+	width: 500px;
+	border-bottom: solid 1px;
+}
+
+
+.titleFont{
+	font-size: 26px;
+	font-weight: initial;
+}
